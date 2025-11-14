@@ -6,4 +6,4 @@ Hello! I am PedrO, a developer and member of the [bnsrpg](https://samp.brasilnex
 <br />
 <br />
 
-[![PedrO GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrO&show_icons=true&theme=dark)](https://github.com/PedrO)
+[![PedrO GitHub stats](https://github-readme-stats.vercel.app/api?username=bnsrpg&show_icons=true&theme=dark)](https://github.com/bnsrpg)
