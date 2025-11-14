@@ -1,6 +1,4 @@
-- ✔ Desenvolvedor
-- ✔ Pawn, TypeScript, C/C++, MySQL
-- ✔ E-mail para Contato: pedrolima48912@gmail.com
+# 👋 Whatsup!
 
 <div align="left"> <a href="https://github.com/bnsrpg"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bnsrpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  </a> </div> <br> <div style="display: inline_block"><br> <img align="center" alt="pawn" height="30" width="40" <img align="center" alt="c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </div> <br> <div> 
   <a href="mailto:pedrolima48912@gmail.com">
